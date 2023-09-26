@@ -1,8 +1,8 @@
 ---
 homepage: true
 layout: home
-title: A design history for your GOV.UK service
-description: A permanent record of how your service has developed over time.
+title: Design histories for Ofqual digital services
+description: A permanent record of user research and design decisions across our services
 pagination:
   data: collections.all
   reverse: true
