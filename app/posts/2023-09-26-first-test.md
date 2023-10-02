@@ -29,7 +29,7 @@ We currently use the term to refer to the types of expertise that the
 applicant has applied for and for which they have been approved or
 rejected.
 
-![Picture3.png](/app/images/first-test/Picture3.png)
+![Picture3.png](Picture3.png)
 
 ## Hypothesis, goals and research questions
 
@@ -67,9 +67,9 @@ rejected.
 
 See UR analysis below:
 
-![Picture4.png](/.attachments/Picture4-41bbcccc-2450-478c-bfd2-6d51a8fb49ce.png)
+![Picture4.png](cat-scoot.webp)
 
-![Picture5.png](/.attachments/Picture5-4075570e-f38d-47d6-8e20-3e8b6f87642d.png)
+![Picture5.png](cat-sniff.webp)
 
 The language that our users used in conversations with them was:
 
