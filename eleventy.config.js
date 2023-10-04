@@ -20,6 +20,19 @@ module.exports = function (eleventyConfig) {
   // Passthrough
   eleventyConfig.addPassthroughCopy({ './app/images': '.' })
 
+  // Add collection for each design histories project
+  eleventyConfig.addCollection('register', collection => {
+    return collection.getFilteredByGlob('app/posts/register/*.md')
+  })
+
+  eleventyConfig.addCollection('specialists', collection => {
+    return collection.getFilteredByGlob('app/posts/specialists/*.md')
+  })
+
+  eleventyConfig.addCollection('recognition', collection => {
+    return collection.getFilteredByGlob('app/posts/recognition/*.md')
+  })
+
   // Config
   return {
     dataTemplateEngine: 'njk',
@@ -32,4 +45,7 @@ module.exports = function (eleventyConfig) {
       includes: '_components'
     }
   }
+
+
+
 }
