@@ -25,8 +25,8 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob('app/posts/register/*.md')
   })
 
-  eleventyConfig.addCollection('specialists', collection => {
-    return collection.getFilteredByGlob('app/posts/specialists/*.md')
+  eleventyConfig.addCollection('sms', collection => {
+    return collection.getFilteredByGlob('app/posts/sms/*.md')
   })
 
   eleventyConfig.addCollection('recognition', collection => {
