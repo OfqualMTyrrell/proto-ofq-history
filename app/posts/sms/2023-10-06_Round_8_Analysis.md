@@ -5,14 +5,12 @@
     sections:
       - title: Related content
         items:
-          - text: User research round 8
-            href: https://miro.com/app/board/uXjVPugcTl8=/?share_link_id=470550569447
-          - text: User research round 7
-            href: https://miro.com/app/board/uXjVPugcTl8=/?share_link_id=470550569447
           - text: Guidance page
             href: https://www.gov.uk/guidance/subject-matter-specialists-for-ofqual
-          - text: Prototype
+          - text: Prototype (pre-Nov 2023)
             href: https://experts-prototype.herokuapp.com/
+          - text: Prototype (post-Nov 2023)
+            href: https://ofqual-sms-prototype-8ab8fed9b8d9.herokuapp.com/
 ---
 
 ## User needs

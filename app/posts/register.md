@@ -17,6 +17,4 @@
              href: https://github.com/OfqualGovUK/ofqual-register-prototype           
            - text: Legacy Register service
              href: https://register.ofqual.gov.uk
-           - text: Miro UX planning board
-             href: https://miro.com/app/board/uXjVPjZ-ezU=/?share_link_id=255618225924  
 ---
