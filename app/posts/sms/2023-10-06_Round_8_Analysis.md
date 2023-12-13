@@ -27,7 +27,7 @@ A review of the SMS application confirms that we do not use the term "specialism
 
 We currently use the term to refer to the types of expertise that the applicant has applied for and for which they have been approved or rejected.
 
-![Picture3.png](Picture3.png)
+![Screen shot showing a summary card component using the term specialism](app/images/sms/2023-10-06_Round_8_Analysis/Picture3.png)
 
 ## Hypothesis, goals and research questions
 
@@ -65,9 +65,9 @@ SMS users do not understand what we mean by the term “specialism”, which mea
 
 See UR analysis below:
 
-![Picture4.png](cat-scoot.webp)
+![Screen shot showing sticky notes containing user research analysis](app/images/sms/2023-10-06_Round_8_Analysis/Picture4.png)
 
-![Picture5.png](cat-sniff.webp)
+![Another screen shot showing sticky notes containing user research analysis](app/images/sms/2023-10-06_Round_8_Analysis/Picture5.png)
 
 The language that our users used in conversations with them was:
 
@@ -93,13 +93,13 @@ type/level are:
 These are referred to as "types of experience". The sub-categories under
 each are referred to as "activities or responsibilities":
 
-![Picture6.png](/.attachments/Picture6-8deb2fbb-8a03-47d5-9699-6b2458180c81.png)
+![Screen shot showing a summary card component showing part of an application form, highlighting where we use the term 'experience'](app/images/sms/2023-10-06_Round_8_Analysis/Picture6.png)
 
-![Picture7.png](/.attachments/Picture7-c01ca97b-b2ab-44b3-a78a-6b235b88679d.png)
+![Screen shot showing checkboxes as part of an application form, highlighting where we use the term 'experience'](app/images/sms/2023-10-06_Round_8_Analysis/Picture7.png)
 
-![Picture8.png](/.attachments/Picture8-b6e26b98-5eaa-4662-aee9-9394011692e0.png)
+![Another screen shot showing checkboxes as part of an application form, highlighting where we use the term 'experience'](app/images/sms/2023-10-06_Round_8_Analysis/Picture8.png)
 
-![Picture9.png](/.attachments/Picture9-9b26b4d2-fdba-4913-ba1d-7e544748c02a.png)
+![Screen shot showing the task list component, highlighting where we use the term 'experience'](app/images/sms/2023-10-06_Round_8_Analysis/Picture9.png)
 
 #### Other sources
 
@@ -161,21 +161,19 @@ Highlight where they have been approved for everything in that subject,
 partially approved, or rejected to make it really clear that they should
 navigate to view all of their application outcomes.
 
-![Picture10.png](/.attachments/Picture10-f6552603-835a-463e-921a-013e284d5f1d.png)
+![Screen shot showing account status, highlighted text describing what a user has been successful for at a subject level](app/images/sms/2023-10-06_Round_8_Analysis/Picture7.png)
 
 #### ~~Option 2~~
 
 ~~Change "specialism" to "types of experience" and include "that you
 applied for" to add more clarity.~~
 
-![Picture11.png](/.attachments/Picture11-28c2226c-4be8-474c-baad-c9810147a685.png)
 
 #### ~~Option 3~~
 
 ~~Change "specialism" to "area" and include "that you applied for" to
 add more clarity.~~
 
-![Picture12.png](/.attachments/Picture12-61907452-0229-48a0-a6f4-dbb07b369acc.png)
 
 ## Next steps
 
@@ -196,19 +194,8 @@ We plan to utilise data from:
 
 ## Resources
 
--   [User research round 7](https://miro.com/app/board/uXjVPugcTl8=/?share_link_id=470550569447)
--   [User research round 8](https://miro.com/app/board/uXjVPugcTl8=/?share_link_id=470550569447)
+-   [User research round 7]
+-   [User research round 8]
 -   [Guidance page - Subject matter specialists for Ofqual (gov.uk)](https://www.gov.uk/guidance/subject-matter-specialists-for-ofqual)
 -   [SMS Prototype](https://experts-prototype.herokuapp.com/)
 
-The first Alpha version of the Register is delivery of basic API functionality, however it is not easy for stakeholders to visualise.
-
-It was decided that as part of this alpha, prototypes for the 3 major user journeys would be produced:
-
-- find a regulated qualification
-- find a recognised awarding organisation
-- compare qualifications
-
-### Design notes
-
-### User research
