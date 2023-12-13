@@ -104,7 +104,7 @@ let bare_file_name = '';
       const new_full_path = replaced_path + '/' + bare_file_name.replace(' ','-');
 
       // XXX LOGGING
-      console.log("[11ty] Creating image folder " + new_full_path);
+      //console.log("[11ty] Creating image folder " + new_full_path);
 
       // Create the image folder if it doesn't exist
       if (!fs.existsSync(new_full_path)) {
