@@ -16,6 +16,14 @@ This repository makes it easy to:
 
 Read our guide on how to [set up a design history](https://x-govuk.github.io/govuk-design-history/get-started/).
 
+Install node packages with:
+
+`npm install`
+
+Start the service with:
+
+`npx eleventy --serve`
+
 ## Support
 
 This project is maintained by a small number of volunteers working across government.
