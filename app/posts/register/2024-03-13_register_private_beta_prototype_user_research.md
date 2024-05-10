@@ -85,7 +85,7 @@ All 9 users were able, without prompting, to successfully select 2 or more quali
 
 "It is good to have the differing information at the top rather than having to scroll for it."
 
-Some users thought that repeating the differing information at the top of the page, as well as it being in the full details further doen the page, might be confusing. These users suggested highlighting the differing information in a different colour instead.
+Some users thought that repeating the differing information at the top of the page, as well as it being in the full details further down the page, might be confusing. These users suggested highlighting the differing information in a different colour instead.
 
 One user said that the fact that the qualification titles were different yet not included as part of the 'differing information' section was odd.
 
