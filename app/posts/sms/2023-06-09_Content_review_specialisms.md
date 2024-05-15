@@ -13,7 +13,7 @@
             href: https://ofqual-sms-prototype-8ab8fed9b8d9.herokuapp.com/
 ---
 
-Link to previous iteration design wiki: [Clarity of Approved status](/2023-03-30_Clarity_of_Approved_status)
+Link to previous iteration design wiki: [Clarity of Approved status](/sms/2023-03-30_Clarity_of_Approved_status)
 
 ## User needs
 
