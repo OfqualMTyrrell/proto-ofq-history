@@ -1,12 +1,6 @@
 ---
-  title: Analysis of Round 8 User Testing
-  date: 2023-10-06
-  screenshots:
-    items:
-      - text: "Summary card component using the term specialism"
-        src: Picture3.png
-      - text: "Sticky notes containing user research analysis"
-        src: Picture4.png
+  title: Content review - specialisms
+  date: 2023-06-09
   related:
     sections:
       - title: Related content
@@ -19,27 +13,37 @@
             href: https://ofqual-sms-prototype-8ab8fed9b8d9.herokuapp.com/
 ---
 
+Link to previous iteration design wiki: [Clarity of Approved status](/2023-03-30_Clarity_of_Approved_status)
+
 ## User needs
 
-- [As a user I need to clearly understand that I may be approved for some areas of expertise and rejected for other areas of expertise](https://trello.com/c/OuRTcyrr/43-as-a-user-i-need-to-clearly-understand-that-i-may-be-approved-for-some-areas-of-expertise-and-rejected-for-other-areas-of-expert)
+-   [As a user I need to clearly understand that I may be approved for
+    some areas of expertise and rejected for other areas of
+    expertise](https://trello.com/c/OuRTcyrr/43-as-a-user-i-need-to-clearly-understand-that-i-may-be-approved-for-some-areas-of-expertise-and-rejected-for-other-areas-of-expert)
 
 ## Overview
 
-Round 8 of user research highlighted the above user need that isn't currently being met.
+Round 8 of user research highlighted the above user need that isn't
+currently being met.
 
-The research suggests that users do not understand the terminology around "specialisms".
+The research suggests that users do not understand the terminology
+around "specialisms".
 
-A review of the SMS application confirms that we do not use the term "specialisms" in our interactions with applicants up until the point of communicating the outcome of the evaluation.
+A review of the SMS application confirms that we do not use the term
+"specialisms" in our interactions with applicants up until the point of
+communicating the outcome of the evaluation.
 
-We currently use the term to refer to the types of expertise that the applicant has applied for and for which they have been approved or rejected.
+We currently use the term to refer to the types of expertise that the
+applicant has applied for and for which they have been approved or
+rejected.
 
-![Screen shot showing a summary card component using the term specialism](Picture3.png)
+![Screenshot of home page using the term specialisms](1.png)
 
-## Hypothesis, goals and research questions
+### Hypothesis, goals and research questions
 
-Hypothesis | Goals | Research Questions
--|-|-
-SMS users do not understand what we mean by the term “specialism”, which means it is not clear to them that they can be (or have been) approved for some parts of their application and not others. | Find a solution to make it clear of the outcome of the application.<br><br>Use the language and terminology that users use, to make it easy to understand. | What terminology have we used previously?<br><br>What language do our users prefer?<br><br>
+|    <br>Hypothesis    	|    <br>Goals    	|    <br>Research Questions    	|
+|---	|---	|---	|
+|    <br>SMS users do not understand what we mean by the term “specialism”,   which means it is not clear to them that they can be (or have been) approved   for some parts of their application and not others.    	|    <br>Find a solution to make it clear of the outcome of the   application.<br>   <br>Use the language and terminology that users use, to make   it easy to understand.    	|    <br>What terminology have we used previously?<br>   <br>What language do our users prefer?<br>   <br>     	|
 
 ## Tools
 
@@ -71,9 +75,9 @@ SMS users do not understand what we mean by the term “specialism”, which mea
 
 See UR analysis below:
 
-![Screen shot showing sticky notes containing user research analysis](Picture4.png)
+![Screenshot of UR analysis](2.png)
 
-![Another screen shot showing sticky notes containing user research analysis](Picture5.png)
+![Screenshot of UR analysis](3.png)
 
 The language that our users used in conversations with them was:
 
@@ -99,13 +103,13 @@ type/level are:
 These are referred to as "types of experience". The sub-categories under
 each are referred to as "activities or responsibilities":
 
-![Screen shot showing a summary card component showing part of an application form, highlighting where we use the term 'experience'](Picture6.png)
+![Screenshot of use of activities and responsibilities](4.png)
 
-![Screen shot showing checkboxes as part of an application form, highlighting where we use the term 'experience'](Picture7.png)
+![Screenshot of using types of experience](5.png)
 
-![Another screen shot showing checkboxes as part of an application form, highlighting where we use the term 'experience'](Picture8.png)
+![Screenshot of use of activities and responsibilities](6.png)
 
-![Screen shot showing the task list component, highlighting where we use the term 'experience'](Picture9.png)
+![Screenshot of use of experience and areas](7.png)
 
 #### Other sources
 
@@ -167,19 +171,20 @@ Highlight where they have been approved for everything in that subject,
 partially approved, or rejected to make it really clear that they should
 navigate to view all of their application outcomes.
 
-![Screen shot showing account status, highlighted text describing what a user has been successful for at a subject level](Picture7.png)
+![Screenshot of home page using new copy](8.png)
 
 #### Option 2
-
 Change "specialism" to "types of experience" and include "that you
 applied for" to add more clarity.
 
+![Screenshot of replacing specialisms with type of experience](9.png)
 
 #### Option 3
 
 Change "specialism" to "area" and include "that you applied for" to
 add more clarity.
 
+![Screenshot of replacing specialisms with area](10.png)
 
 ## Next steps
 
@@ -193,15 +198,17 @@ assumptions.
 We plan to utilise data from:
 
 -   Usability testing and interviews in future research rounds
--   Session recordings 
--   Heatmaps 
+-   Session recordings (tbc)
+-   Heatmaps (tbc)
 -   Events tracking, pageviews and bounces
--   Support 
+-   Support (when live)
 
 ## Resources
 
--   [User research round 7]
--   [User research round 8]
--   [Guidance page - Subject matter specialists for Ofqual (gov.uk)](https://www.gov.uk/guidance/subject-matter-specialists-for-ofqual)
+-   [User research round
+    7](https://miro.com/app/board/uXjVPugcTl8=/?share_link_id=470550569447)
+-   [User research round
+    8](https://miro.com/app/board/uXjVPugcTl8=/?share_link_id=470550569447)
+-   [Guidance page - Subject matter specialists for Ofqual
+    (gov.uk)](https://www.gov.uk/guidance/subject-matter-specialists-for-ofqual)
 -   [SMS Prototype](https://experts-prototype.herokuapp.com/)
-
