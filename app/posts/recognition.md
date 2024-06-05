@@ -1,7 +1,7 @@
 ---
    layout: collection
    title: Recognition
-   description: Design history for the Apply to be a Recognised Awarding Organisation service
+   description: Design history for the Apply to have your qualifications regulated service
    pagination:
      data: collections.recognition
      reverse: true
